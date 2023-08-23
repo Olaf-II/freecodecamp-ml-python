@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-08-20T09:07:50.142210",
+    "startedAt": "2023-08-20T09:07:49.184643",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "d:\\Coding Projects\\FreeCodeCamp Machine Learning with Python\\Linear-Regression.py",
+    "codePath": "Linear-Regression.py",
+    "host": "Gaming-PC",
+    "username": "nicho",
+    "executable": "C:\\Users\\nicho\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3601.0,
+        "min": 0.0,
+        "max": 3601.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3601.0,
+            "min": 0.0,
+            "max": 3601.0
+        }
+    ],
+    "disk": {
+        "total": 1582.6200561523438,
+        "used": 1564.879322052002
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 31.921756744384766
+    }
+}

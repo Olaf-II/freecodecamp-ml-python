@@ -1,0 +1,2 @@
+0.78409094
+{'accuracy': 0.78409094, 'accuracy_baseline': 0.625, 'auc': 0.8378635, 'auc_precision_recall': 0.7836826, 'average_loss': 0.4724211, 'label/mean': 0.375, 'loss': 0.45248678, 'precision': 0.7019231, 'prediction/mean': 0.40802225, 'recall': 0.7373737, 'global_step': 20000}
